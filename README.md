@@ -1,6 +1,14 @@
 # Mayank
 ![programmer gif](https://media1.tenor.com/m/C1r3YSmu4IQAAAAd/coding.gif)
 
+
+### 📈 GitHub Stats
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=mayankhikhi&show_icons=true&theme=radical)
+
+# Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mayankhikhi&layout=compact&theme=radical)
+---
+
 ## Get In Touch  
 <div align="center">
 <a href="https://github.com/mayankhikhi" target="_blank">
